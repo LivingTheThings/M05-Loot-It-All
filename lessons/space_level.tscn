@@ -22,10 +22,10 @@ position = Vector2(916, 421)
 position = Vector2(793, 547)
 
 [node name="Gem" parent="." instance=ExtResource("4_4rc43")]
-position = Vector2(1076, 380)
+position = Vector2(1234, 359)
 
 [node name="Gem2" parent="." instance=ExtResource("4_4rc43")]
-position = Vector2(1076, 380)
+position = Vector2(507, 403)
 
 [node name="Gem3" parent="." instance=ExtResource("4_4rc43")]
-position = Vector2(1076, 380)
+position = Vector2(808, 810)
