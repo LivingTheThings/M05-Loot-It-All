@@ -22,4 +22,3 @@ position = Vector2(1168, 737)
 
 [node name="Gem" parent="." instance=ExtResource("4_4rc43")]
 position = Vector2(1158, 714)
-collision_layer = 2
