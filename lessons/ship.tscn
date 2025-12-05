@@ -20,6 +20,7 @@ corner_radius_bottom_left = 4
 font_size = 20
 
 [node name="Ship" type="Area2D"]
+collision_mask = 3
 script = ExtResource("4_p1sls")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]

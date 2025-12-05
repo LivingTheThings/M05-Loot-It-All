@@ -10,16 +10,16 @@
 
 [node name="Ship" parent="." instance=ExtResource("2_2j1u5")]
 position = Vector2(946, 546)
+collision_mask = 2
 
 [node name="SpaceBackground" parent="." instance=ExtResource("3_e6xy1")]
 
 [node name="RandomItemPlacer" parent="." instance=ExtResource("3_etm7e")]
-visible = false
 position = Vector2(-1, 8)
 
-[node name="Gem" parent="." instance=ExtResource("4_4rc43")]
-position = Vector2(1081, 665)
-collision_layer = 2
-
 [node name="HealthPack" parent="." instance=ExtResource("5_dru4e")]
-position = Vector2(1082, 641)
+position = Vector2(1168, 737)
+
+[node name="Gem" parent="." instance=ExtResource("4_4rc43")]
+position = Vector2(1158, 714)
+collision_layer = 2
